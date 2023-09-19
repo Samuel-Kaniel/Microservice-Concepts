@@ -47,9 +47,13 @@ Embracing microservices can bring benefits like increased agility, scalability, 
 ![image](https://github.com/Samuel-Kaniel/Microservice-Concepts/assets/83005750/64fb670c-d718-465d-a9a2-8da4a9516d24)
 - **An example of a monolithic architecture 🏢**
 
+The monolithic architecture is characterized by a single, tightly integrated codebase where all components of an application are interconnected. This approach can be efficient for small projects but becomes unwieldy as the project scales. Changes or updates to one part of the system can have unintended consequences on others.
+
   
  🏢 Monolithic ---> 🔄 Microservice 🛠️
  
 
 ![image](https://github.com/Samuel-Kaniel/Microservice-Concepts/assets/83005750/9179bc81-599f-40d8-92fe-e4536c93a025)
 - **An example of a Microservice architecture 🏢**
+
+Microservices, on the other hand, involve breaking down a large application into smaller, independent services. Each service handles a specific business function and can be developed, deployed, and scaled independently. This approach offers greater flexibility and scalability, making it well-suited for complex, large-scale applications.
