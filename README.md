@@ -79,3 +79,11 @@ The monolithic architecture is characterized by a single, tightly integrated cod
 - **An example of a Microservice architecture 🏢**
 
 Microservices, on the other hand, involve breaking down a large application into smaller, independent services. Each service handles a specific business function and can be developed, deployed, and scaled independently. This approach offers greater flexibility and scalability, making it well-suited for complex, large-scale applications.
+
+
+# Day 03: 🏗️ Under construction
+  - Content for Day 3 is currently under development. Stay tuned for more insights into microservices architecture! 🛠️🏗️
+# Day 04: 🔜 Coming Soon
+  - Day 4 will bring even more valuable content on microservices. Check back later for updates! 🚀🔜
+# Day 05: 🚀 Starting Project with Microservice  <h5>Check the [ above folder Name]</h5>
+  - Explore the initial steps of launching a project using microservices. Gain practical insights into designing, developing, and deploying microservices-based applications. 🏢🚀🛠️
